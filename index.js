@@ -78,7 +78,3 @@ function LUS(str)
 		return len;
 	}
 
-let s = [];
-	s.push("abcdefgh");
-	
-	document.write(maxLength(s));
